@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    titleWeb: "xin chào và cảm ơn bạn đã ấn vô link của manh",
+    introTitle: 'hha chào cậu tao đợi cậu lâu lắm rồi',
+    introDesc: `bây giờ vô đây rồi thì làm gì tiếp ta
+     hình như tao nghĩ ra rồi cậu ạ`,
+    btnIntro: '^^ấn vô đây nè nhìn gì nữa^^',
+    title: 'chiều call điiiiiii',
+    desc: 'call để học HÓA má ơi ',
+    btnYes: 'oki luôn chắc chắn rồi',
+    btnNo: 'đéo nha :3',
+    question: 'tại sao cậu lại đồng ý call với tao... <3',
+    btnReply: 'Gửi cho cho Manh <3',
+    reply: 'bởi vì Manh thiệt là cute và dễ thưn <33333333',
+    mess: 'tao biết mà 🥰. hha không chối được đâu 😘😘',
+    messDesc: 'vậy hẹn chiều nay 3 giờ nhe .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }

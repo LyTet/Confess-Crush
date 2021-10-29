@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `thôi đã vào đây rồi 
     thì chị cũng có chuyện muốn nói...`,
     btnIntro: '^^ấn vô đây xong chị nói ^^',
-    title: 'chuyện là cho chị 50.000 được không ??',
+    title: 'chuyện là cho chị 50.000 được khônggg ??',
     desc: 'có đồng ý không z ',
     btnYes: 'chắc chắn là được :33',
     btnNo: 'không được đâu vì em không có tiền :3',

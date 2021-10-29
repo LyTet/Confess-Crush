@@ -13,6 +13,6 @@ const CONFIG = {
     reply: 'bởi vì Manh thiệt là cute và dễ thưn <33333333',
     mess: 'chị biết mà, không chối được đouuu',
     messDesc: 'đang hoang mang lắm đúng không?? chắc là đúng rồi  .',
-    btnAccept: 'bây giờ thì quay lại nhắn tin tiếp nhe <3',
+    btnAccept: 'bây giờ thì quay lại nhắn tin tiếp nhe hha <3',
     messLink: 'https://www.facebook.com/messages/t/100054048037664/' 
 }

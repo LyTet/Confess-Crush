@@ -1,18 +1,18 @@
 const CONFIG = {
-    titleWeb: "Manh đâyyyyy",
-    introTitle: 'ủa đưa cho link là vào luôn hả chời',
-    introDesc: `thôi đã vào đây rồi 
-    thì chị cũng có chuyện muốn nói...`,
-    btnIntro: '^^ấn vô đây xong chị nói ^^',
-    title: 'chuyện là cho chị 50.000 được không ?',
-    desc: 'có đồng ý không z ',
-    btnYes: 'chắc chắn là được :33',
-    btnNo: 'không được đâu vì em không có tiền :3',
-    question: 'tại sao em lại đồng ý hic... <3',
+    titleWeb: "Manhhhh",
+    introTitle: 'chào mày',
+    introDesc: `tao có chuyện muốn hỏi 
+    ...`,
+    btnIntro: '^^ấn vô đây xong tao hỏi ^^',
+    title: 'mày là con gái phải không ?',
+    desc: 'trả lời thật lòng đi ',
+    btnYes: 'đúng rồi tao là con gái :33',
+    btnNo: 'đéo nha :3',
+    question: 'tại sao mày lại là con gái hhu... <3',
     btnReply: 'Gửi cho cho Manh i nè  <3',
-    reply: 'bởi vì Manh thiệt là cute và dễ thưn <33333333',
-    mess: 'chị biết mà, không chối được đouuu',
-    messDesc: 'đang hoang mang lắm đúng không?? chắc là đúng rồi  .',
-    btnAccept: 'bây giờ thì quay lại nhắn tin tiếp nhe hha <3',
-    messLink: 'https://www.facebook.com/messages/t/100054048037664/' 
+    reply: 'bởi vì đấy là ước muốn của tao từ lâu rồi <33333333',
+    mess: 'tao biết ngay mà haizz',
+    messDesc: 'tao sẽ giữ bí mật cho mày  .',
+    btnAccept: 'ấn vô đây sẽ ra nick fb ngừi iu mày <3',
+    messLink: 'https://www.facebook.com/profile.php?id=100052879176510' 
 }
